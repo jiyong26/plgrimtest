@@ -10,7 +10,7 @@
 <h1>
 	Hi Matte!!!   
 </h1>
-<h2>Eva</h2>
+<h2>Eva and Zael</h2>
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
