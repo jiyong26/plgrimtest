@@ -10,7 +10,11 @@
 <h1>
 	Hi Matte!!!   
 </h1>
+<<<<<<< HEAD
 <h2>Eva testbranch</h2>
+=======
+<h2>Eva and Zael</h2>
+>>>>>>> 040670339b2aee32f1a25848a3319357710e0663
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
