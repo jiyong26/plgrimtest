@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: takes
 Build-Jdk: 15.0.1
+=======
+Built-By: sosi2
+Build-Jdk: 1.8.0_281
+>>>>>>> 5d97c25387121cbb13ae5778aae219c4274e33cc
 Created-By: Maven Integration for Eclipse
 
